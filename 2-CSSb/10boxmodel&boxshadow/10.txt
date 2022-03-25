@@ -1,0 +1,8 @@
+box shadow - sombra da caixa:
+
+recebe 4 dimensões:
+
+1. distancia horizontal
+2. distancia vertical
+3. desfoque da sombra
+4. cor da sombra

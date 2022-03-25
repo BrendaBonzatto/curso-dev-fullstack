@@ -1,0 +1,7 @@
+AULAS BORDER E BORDER RADIUS !
+
+ex.
+border-radius: 50% 10% 30% 70%
+medidos em sentido horario, começando pela ponta da esquerda de cima
+
+forma folha: 100% 0 100% 0

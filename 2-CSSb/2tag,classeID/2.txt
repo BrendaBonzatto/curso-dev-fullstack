@@ -1,0 +1,10 @@
+3 formas de alterar o stilo do texto
+
+tag:
+ex. <h3> = assim todas as tags ficaram iguais
+
+classe:
+ex. .foto-principal = tem que sempre usar o . antes da palavra
+
+id:
+ex. #titulo-principal = sempre usar o # antes da palavra

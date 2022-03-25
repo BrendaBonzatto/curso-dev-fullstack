@@ -1,0 +1,7 @@
+<b> : bold, negrito (valor visual)
+
+<strong> : deixa a palavra em negrito, porém ela funciona como um 'marca texto' para o google entender que aquela palavra tem grande relevancia dentro do html
+
+<i> : italic (valor visual)
+
+<em> : significa enfase no texto

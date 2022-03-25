@@ -1,0 +1,23 @@
+VISUAL STUDIO CODE
+é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+VI: user interface
+VX: user experience
+equipe design responsável por desenhar o layoutdo sistema
+
+FRONT END (etapa visual)
+desenvolvimento web aonde trabalha com a interface do usuário, constrói botões, imagens, links, textos, menus, toda parte visual de um sistema.
+o desenvolvedor FE, pega os trabalhos de VI e VX e transforma em algo navegável.
+ferramentas: como HTML, CSS e outros softwares de programação.
+
+BACK END (camada de dados)
+transforma os formulários do FE, tudo de visual, todos os dados precisam ser salvos, gravados e tratados.
+ex:usuário e senha de um site
+quem faz o formulário é o FE, mas quem valida para verificar se o usuário tem permissão para acessar é o BE.
+no BE é colocado as regras de negócio do sistema; processamento, banco e tratamento de dados, segurança.
+ferramentas: frameworks para desenvolver softwares e aplicativos;
+conhecimento em linguagens de programação usadas para o ambiente digital, como Javascript, PHP ou C#, por exemplo.
+
+FULL STACK
+trabalha nas duas camadas, tanto FRONT END quanto BACK END
+

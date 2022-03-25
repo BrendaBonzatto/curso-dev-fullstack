@@ -1,0 +1,7 @@
+PADDING:
+é a borda interna, antes da border
+
+ordem da imagem pra fora:
+PADDING
+BORDER
+MARGIN

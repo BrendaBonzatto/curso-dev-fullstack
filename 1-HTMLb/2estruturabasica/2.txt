@@ -1,0 +1,7 @@
+ESTRUTURA BÁSICA
+
+<!DOCTYPE> é a priemeira linha e utulizamos ela somente uma vez no documento, descreve o html que estamos utilizando.
+
+<html> faz a abertura e o feixo, dando enter ela inicia a próxima linha com um "espaço" do lado esquerdo, este espaço se chama identação.
+Dentro desta tag temos mais duas tags: <head> o cerebro do html, ficam as configurações do cocumento html 
+<body> corpo do html, área visivel, aonde o usuário vê o meu site.

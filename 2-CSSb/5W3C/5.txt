@@ -1,0 +1,7 @@
+W3C = 
+O World Wide Web Consortium é a principal organização de padronização da World Wide Web. Consiste em um consórcio internacional com 450 membros, agrega empresas, órgãos governamentais e organizações independentes com a finalidade de estabelecer padrões para a criação e a interpretação de conteúdos para a Web.
+Fundador: Tim Berners-Lee 
+Fundação: 1 de outubro de 1994
+
+w3schools.com
+

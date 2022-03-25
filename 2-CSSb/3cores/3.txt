@@ -1,0 +1,21 @@
+COLORS
+
+R: red
+G: green
+B: blue
+
+A: transparencia
+
+ou
+
+#FFFF00
+
+2p: red
+2m: green
+2f: blue
+
+não se adiociona transparencia
+
+*converter de hex para rgb
+
+pesquisa no goole, copia o código da cor

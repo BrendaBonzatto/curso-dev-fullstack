@@ -1,0 +1,12 @@
+MARGIN
+
+ex:
+
+.foto-principal {
+margin: 10px 20px 30px 40px;
+}
+
+10: top
+20: right
+30:bottom
+40: right

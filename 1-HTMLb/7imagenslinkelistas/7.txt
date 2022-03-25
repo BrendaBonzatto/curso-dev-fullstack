@@ -1,0 +1,13 @@
+<a> : tag âncora
+
+<a href="http://www.linkedin.com">Linkedin</a> : 
+colocar link abrindo na mesma página
+
+<a> + href + target="_blank" :
+abrir link em nova aba
+
+<img src="foto1.jpg" width="200" alt="Foto: Brenda K. Bonzatto"> :
+img para adc foto
+width para arrumar o tamanho
+e o "foto: e nome" para caso a foto não abra, aparecer o nome e tbm para deficientes visuais usar o app para descrever imagens
+

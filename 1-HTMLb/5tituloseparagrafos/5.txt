@@ -1,0 +1,3 @@
+lang: linguagem
+meta charser utf8: codificação da pág
+view port: aprendemos depois!

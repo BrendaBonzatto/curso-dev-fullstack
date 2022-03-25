@@ -1,0 +1,2 @@
+<style>
+utilizada somente em sites com poucas páginas
